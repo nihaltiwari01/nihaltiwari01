@@ -1,5 +1,4 @@
 <div align="center">
-<img width="900" height="320" alt="banner" src="https://github.com/user-attachments/assets/d6f56420-173c-495a-a275-8b8d5548ad0e" />
 
 <!-- 1. ANIMATED BANNER -->
 <img src="https://raw.githubusercontent.com/locbbb48/locbbb48/HEAD/chill-mario-pixel-moewalls-com.gif" width="100%" alt="Pixel Gaming Room" />
@@ -88,3 +87,6 @@
 </p>
 
 <br/>
+<img width="900" height="320" alt="banner" src="https://github.com/user-attachments/assets/d6f56420-173c-495a-a275-8b8d5548ad0e" />
+<br/>
+<p align="center"><b>▶ GAME OVER? NEVER. INSERT COIN TO CONTINUE ◀</b></p>
