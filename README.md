@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. ANIMATED BANNER -->
-<img src="https://raw.githubusercontent.com/locbbb48/locbbb48/HEAD/chill-mario-pixel-moewalls-com.gif" width="100%" alt="Pixel Gaming Room" />
+<img src="https://raw.githubusercontent.com/locbbb48/locbbb48/HEAD/chill-mario-pixel-moewalls-com.gif" width="100%"  height="320" alt="Pixel Gaming Room" />
 
 <!-- 2. DYNAMIC 8-BIT NAME & LEVEL REVEAL -->
 <a href="https://github.com/nihaltiwari01"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=FF2BD6&center=true&vCenter=true&width=750&lines=PLAYER+1%3A+NIHAL+TIWARI;CLASS%3A+Full-Stack+%26+Android+Dev;GUILD%3A+MCA+%40+NIT+Meghalaya;PRESS+START+TO+EXPLORE+QUESTS" alt="Typing SVG" /></a>
