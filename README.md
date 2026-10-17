@@ -7,7 +7,7 @@
 <a href="https://github.com/nihaltiwari01"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&duration=3000&pause=800&color=FF2BD6&center=true&vCenter=true&width=750&lines=PLAYER+1%3A+NIHAL+TIWARI;CLASS%3A+Full-Stack+%26+Android+Dev;GUILD%3A+MCA+%40+NIT+Meghalaya;PRESS+START+TO+EXPLORE+QUESTS" alt="Typing SVG" /></a>
 
 <!-- 3. VISITOR COUNTER HUD -->
-<img src="https://komarev.com/ghpvc/?username=nihaltiwari01&label=PLAYER+VISITS&color=ff2bd6&style=for-the-badge" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=nihaltiwari01&label=PLAYER+VISITS&color=ff2bd6&style=for-the-badge" alt="" />
 
 </div>
 
