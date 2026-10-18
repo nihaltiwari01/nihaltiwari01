@@ -59,7 +59,7 @@
 <td width="33%" valign="top">
 <h3 align="center">🏆 FindMyEvent Hub</h3>
 <p align="center"><img src="https://img.shields.io/badge/HACKATHON_WINNER-FFD700?style=flat-square" /></p>
-<p><b>⏱️ Time Limit:</b> 6-Hour Sprint<br/><b>🎁 Loot:</b> Real-time Android campus event discovery and check-in system. <a href="https://github.com/nihaltiwari01/MyCampus"><br/>View quest</a></p>
+<p><b>⏱️ Time Limit:</b> 6-Hour Sprint<br/><b>🎁 Loot:</b> Real-time Android campus event discovery and check-in system. <a href="https://github.com/nihaltiwari01/FindMyEvent"><br/>View quest</a></p>
 </td>
 <td width="33%" valign="top">
 <h3 align="center">🏰 Studmin</h3>
@@ -69,7 +69,7 @@
 <td width="33%" valign="top">
 <h3 align="center">🧭 Campus Flow</h3>
 <p align="center"><img src="https://img.shields.io/badge/PATHFINDING-FF2BD6?style=flat-square" /></p>
-<p><b>🛠️ Craft:</b> C++ & React<br/><b>🎁 Loot:</b> Smart campus navigation router and live facility occupancy tracker. <a href="https://github.com/nihaltiwari01/FindMyEvent"><br/>View quest</a></p>
+<p><b>🛠️ Craft:</b> C++ & React<br/><b>🎁 Loot:</b> Smart campus navigation router and live facility occupancy tracker. <a href="https://github.com/nihaltiwari01/MyCampus"><br/>View quest</a></p>
 </td>
 </tr>
 </td>
